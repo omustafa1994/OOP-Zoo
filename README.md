@@ -1,7 +1,5 @@
 # OOP-zoo
 
-# Summary
-
 Create a model of a zoo using good OOP design principles. The zoo should contain:
 
 * A top-level Animal module which will be included in all animal types.
