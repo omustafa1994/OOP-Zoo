@@ -1,4 +1,4 @@
-# Object-Oriented Programming for a Zoo
+# Object-Oriented Programming Design Principles
 
 Create a model of a zoo using good OOP design principles. The zoo should contain:
 
