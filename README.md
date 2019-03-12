@@ -1,4 +1,4 @@
-# OOP-zoo
+# Object-Oriented Programming for a Zoo
 
 Create a model of a zoo using good OOP design principles. The zoo should contain:
 
